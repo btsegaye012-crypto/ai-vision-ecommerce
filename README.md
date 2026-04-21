@@ -25,9 +25,12 @@
 **DevOps**: Docker, GitHub Actions (CI/CD), AWS (ECR, EKS/ECS)
 **AI Services**: Google Vision API, Gemini, HeyGen/D-ID API
 
+
 ## 📸 Screenshots
 
-*(Add 2-3 high-quality screenshots here: main product page, camera search in action, AR try-on view)*
+![AI Vision Search Demo](ai-demo.png)
+![AI Vision Search Demo](bura_dev_2.png)
+![AI Vision Search Demo](bura_boss.png)
 
 ## 🚀 Live Demo
 
